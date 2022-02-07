@@ -51,7 +51,7 @@ body::after {
     opacity: .8;
 }
 .card > img {
-    grid-area: 1 / 1 / 2 / 3;
+    grid-area: 1 / 1 / 2 / 4;
     border-top-left-radius: inherit;
     border-top-right-radius: inherit;
 }
